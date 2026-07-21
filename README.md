@@ -6,16 +6,16 @@ An end-to-end Power BI analytics solution built to evaluate credit risk, default
 ## 📊 Dashboard Walkthrough
 
 ### 1. Executive Overview
-![Executive Overview](assets/01_executive_overview.png)
+![Executive Overview](01_executive_overview.png)
 
 ### 2. Risk Segmentation
-![Risk Segmentation](assets/02_risk_segmentation.png)
+![Risk Segmentation](02_risk_segmentation.png)
 
 ### 3. Delinquency & Vintage Trends
-![Delinquency Trend](assets/03_delinquency_trend.png)
+![Delinquency Trend](03_delinquency_trend.png)
 
 ### 4. Portfolio Mix & Geography
-![Portfolio Mix](assets/04_portfolio_mix.png)
+![Portfolio Mix](04_portfolio_mix.png)
 
 ---
 
